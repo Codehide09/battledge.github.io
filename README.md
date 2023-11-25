@@ -13,7 +13,7 @@
 
  Be A player Be A champion
 
-  <a href="https://codewithsadee.github.io/gamics/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Codehide09.github.io/Battledge.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
