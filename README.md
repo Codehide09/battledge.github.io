@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Gamics - Gaming website</h2>
+  <h2 align="center">Battledge -Be A player Be A champion </h2>
 
-  Gamics is a fully responsive gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ Be A player Be A champion
 
   <a href="https://codewithsadee.github.io/gamics/"><strong>➥ Live Demo</strong></a>
 
@@ -35,15 +35,6 @@ To run **Gamics** locally, run this command on your git bash:
 
 Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/gamics.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/gamics.git
-```
 
 ### Contact
 
